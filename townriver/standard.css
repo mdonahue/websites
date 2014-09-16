@@ -1,0 +1,45 @@
+body { margin:0px;
+  padding:0px;
+  background:#eee;
+  margin-bottom:50px;
+  font-family: "Trebuchet MS",verdana,sans-serif; 
+  font-size: 14px;
+  color:#333;
+}
+
+a:link {color:#a00;}
+a.nav:link { color: #F6FFF6; }
+a:visited {color:#815151;}
+a:active {color:red;}
+a:hover, a.subfoot:hover, a.linknav:hover, a.sublinknav:hover {color:red;text-decoration:underline;}
+a.nav:hover { color: #FFF6F6; text-decoration:underline; }
+
+.container { margin-right:50px;
+  margin-left:50px;
+  background:white;
+  border-left:1px solid #ccc; 
+  border-right:1px solid #ccc; 
+  border-bottom:1px solid #ccc; 		
+}
+
+p, h1, h2, h3 {	margin:0px 14px 14px 14px; line-height:140%;}
+		
+h2 {font-size:18px;}
+
+.nav { background-color: #8EA48E; }
+.ratesheader {text-align: center; padding: 5px;}
+.address {text-align: center; padding-bottom: 3px; }
+.marinaname {font-weight: bold; font-size: 18px; text-align: center}
+.panorama { text-align: center; padding: 3px; }
+.bodytext { padding: 5px; }
+.rightimage { float: right; }
+.callout { text-align: center; padding: 5px; font-weight: bold; }
+
+div.rates { clear: both; margin: 10px; padding-bottom: 10px;}
+.rateitem { width: 75%; text-align: left; padding-left: 10px;}
+.itemprice { width: 25%; text-align: center; padding-right: 10px;}
+div.rates span.blockingitem { float: left; width: 60%; text-align: left; margin-left: 20px;}
+.ratemainitem { width: 75%; text-align: left; padding-left: 10px; line-height: 125%; font-size: 110%; }
+.ratesubitem {  width: 75%; text-align: left; padding-left: 25px; font-size: 90%; }
+.bold { font-weight: bold; }
+.lede {border: 1px solid black; margin: 5px;}
