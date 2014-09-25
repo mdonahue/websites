@@ -94,8 +94,8 @@
          Town River Marina<br/>
          674 Southern Artery<br/>
          Quincy, MA 02169<br/>
-         P.O. Box 164<br/>
-         Hingham, MA 02043<br/>
+        P.O. Box 502<br/>
+        Scituate, MA 02066<br/>
          <a href="mailto:marina@townriver.com">marina@townriver.com</a><br/>
          Telephone: 617-745-9813<br/>
       </div>
