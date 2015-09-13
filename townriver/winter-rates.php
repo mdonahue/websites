@@ -16,7 +16,7 @@
     <?php include 'navigation.php'; ?>
 
   <div class="ratesheader">
-    <h3>RATE SCHEDULE - WINTER 2013 - 2014 (October 15, 2013 - May 15, 2014)</h3>
+    <h3>RATE SCHEDULE - WINTER 2015 - 2016 (October 15, 2015 - May 15, 2016)</h3>
   </div>
 
 <table>
@@ -25,19 +25,19 @@
     </tr>
     <tr>
         <td class="rateitem">Power - under 27 feet</td>
-        <td class="itemprice">$46.00 per foot</td>
-    </tr>
-    <tr>
-        <td class="rateitem">Power - over 26 feet</td>
         <td class="itemprice">$48.00 per foot</td>
     </tr>
     <tr>
-        <td class="rateitem">Sail - under 27 feet</td>
+        <td class="rateitem">Power - over 26 feet</td>
         <td class="itemprice">$50.00 per foot</td>
     </tr>
     <tr>
-        <td class="rateitem">Sail - over 26 feet</td>
+        <td class="rateitem">Sail - under 27 feet</td>
         <td class="itemprice">$52.00 per foot</td>
+    </tr>
+    <tr>
+        <td class="rateitem">Sail - over 26 feet</td>
+        <td class="itemprice">$54.00 per foot</td>
     </tr>
     <tr>
         <td colspan="2" class="rateitem">Vessels that exceed the capacity of Town River Marina's and Continental Marines' 
@@ -61,11 +61,11 @@
 </tr>
 <tr>
   <td class="ratesubitem">Boats 26 to 30 feet (1 hr. min.)</td>
-  <td class="itemprice">$200.00/hr.</td>
+  <td class="itemprice">$225.00/hr.</td>
 </tr>
 <tr>
-  <td class="ratesubitem">Boats greater than 30 feet (1 hr. min.)</td>
-  <td class="itemprice">$225.00/hr.</td>
+  <td class="ratesubitem">Boats greater than 30 feet</td>
+  <td class="itemprice">Call for quote</td>
 </tr>
     <tr>
         <td class="reateitem">Engine remove/install</td>

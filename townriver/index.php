@@ -92,11 +92,9 @@
             </p>
         </div>
         <div class="tennant">
-            <p><span class="callout">Bill &amp; Jules Boat and Shore Fishing Specialists</span> - (617) 633-6738</p>
+            <p><span class="callout">Black Hull Charters</span> - (508) 384-3132 (508) 326-9287</p>
 
-            <p>Captain William "Bill" Bryant (USCG Licensed Master Captain) and Julianne " Jules" Silvis offer Shore
-                trips, charters on their 2005 27 ft Polar Center Console, named the Alternative. <a
-                        href="http://billandjulsfishing.com/">http://billandjulsfishing.com</a></p>
+            <p>Captain Ronnie Munafo <a href="http://www.blackhullcharters.com">www.blackhullcharters.com</a></p>
 
             <p><span class="callout">GoFish Sportfishing Charters</span>- (508) 395-4767</p>
 
