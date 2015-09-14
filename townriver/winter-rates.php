@@ -68,8 +68,8 @@
   <td class="itemprice">Call for quote</td>
 </tr>
     <tr>
-        <td class="reateitem">Engine remove/install</td>
-        <td class="itemprice">$100.00/hr.</td>
+        <td class="reateitem">Engine remove/install (1 hr. min.)</td>
+        <td class="itemprice">$125.00/hr.</td>
     </tr>
 <tr>
 <td class="rateitem">Power washing</td> <td class="itemprice">$4.00 per ft.</td>
@@ -99,7 +99,12 @@
 
 <tr>
 <td class="rateitem">Towing (by the clock)</td>
-<td class="itemprice">$125.00 hr.</td>
+<td class="itemprice">$150.00 hr.</td>
+</tr>
+
+<tr>
+<td class="rateitem">Salvage and boat removal</td>
+<td class="itemprice">Call for quote</td>
 </tr>
 </table>
 
