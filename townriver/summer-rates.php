@@ -26,7 +26,7 @@
 
       <div class="bodytext">
         <div class="ratesheader">
-           <h3>Summer Rates (May 15-October 15, 2014)</h3>
+           <h3>Summer Rates 2016(May 15 2016-October 15, 2016)</h3>
         </div>
         <table>
           <tr>
