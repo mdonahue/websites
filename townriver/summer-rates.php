@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <title>
-      Town River Marina - Mooring and Yacht Services in Quncy, MA: Summer Rates (May 15-October 15, 2014)
+      Town River Marina - Mooring and Yacht Services in Quncy, MA: Summer Rates (May 15-October 15, 2017)
     </title>
     <meta name="description" content="Town River Marina provides mooring services as well as yacht storage and launching facilities on the Twon River in Quincy, MA" />
     <meta name="keywords" content="mooring services, yacht brokerage, yacht storage, Quincy Massachusetts" />
@@ -26,19 +26,19 @@
 
       <div class="bodytext">
         <div class="ratesheader">
-           <h3>Summer Rates 2016(May 15 2016-October 15, 2016)</h3>
+           <h3>Summer Rates 2017(May 15 2017-October 15, 2017)</h3>
         </div>
         <table>
           <tr>
             <td class="rateitem">Finger slip including water and electricity for boats up to 31 feet</td>
-            <td class="itemprice">$98.00 per foot</td>
+            <td class="itemprice">$103.00 per foot</td>
           </tr>
           <tr>
             <td colspan="2">There is a 22 foot minimum for finger slips.</td>
           </tr>
           <tr>
             <td class="rateitem">Berths alongside, for boats up to 22 feet</td>
-            <td class="itemprice">$95.00 per foot</td>
+            <td class="itemprice">$100.00 per foot</td>
           </tr>
           <tr>
             <td class="rateitem">Mooring float for boats up to 23 feet</td>
