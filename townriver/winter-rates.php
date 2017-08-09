@@ -16,7 +16,7 @@
     <?php include 'navigation.php'; ?>
 
   <div class="ratesheader">
-    <h3>RATE SCHEDULE - WINTER 2016 - 2017 (October 15, 2016 - May 15, 2017)</h3>
+    <h3>RATE SCHEDULE - WINTER 2017 - 2018 (October 15, 2017 - May 15, 2018)</h3>
   </div>
 
 <table>
@@ -25,19 +25,25 @@
     </tr>
     <tr>
         <td class="rateitem">Power - under 27 feet</td>
-        <td class="itemprice">$48.00 per foot</td>
-    </tr>
-    <tr>
-        <td class="rateitem">Power - over 26 feet</td>
         <td class="itemprice">$50.00 per foot</td>
     </tr>
     <tr>
-        <td class="rateitem">Sail - under 27 feet</td>
+        <td class="rateitem">Power - over 26 feet</td>
         <td class="itemprice">$52.00 per foot</td>
     </tr>
     <tr>
-        <td class="rateitem">Sail - over 26 feet</td>
+        <td class="rateitem">Sail - under 27 feet</td>
         <td class="itemprice">$54.00 per foot</td>
+    </tr>
+    <tr>
+        <td class="rateitem">Sail - over 26 feet</td>
+        <td class="itemprice">$56.00 per foot</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="rateitem">
+        All stored vessels must have a certificate of insurance showing coverages of at least $300, 000 in liability and $500,000 in environmental on file with the marina prior to haul out. Town River
+Marina should also be named as an additional insured.
+      </td>
     </tr>
     <tr>
         <td colspan="2" class="rateitem">Vessels that exceed the capacity of Town River Marina's and Continental Marines' 
