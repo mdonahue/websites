@@ -41,18 +41,10 @@
     </tr>
     <tr>
       <td colspan="2" class="rateitem">
-        All stored vessels must have a certificate of insurance showing coverages of at least $300, 000 in liability and $500,000 in environmental on file with the marina prior to haul out. Town River
-Marina should also be named as an additional insured.
+      <p>All stored vessels must have a certificate of insurance showing coverages of at least $300, 000 in liability and $500,000 in environmental on file with the marina prior to haul out. Town River Marina should also be named as an additional insured.</p>
+      <p>Vessels that exceed the capacity of Town River Marina's and Continental Marines' hauling equipment will contract directly with an outside contractor approved by the yard. The fees paid to said contractor will be <span class="bold">in addition</span> to the storage fees stated above.</p>
+      <p>The basic storage rate includes haul (fall), power wash bottom, wooden blocking, stands and launch (spring). The basic rate will not be adjusted if any of the above elements included in the basic rate are not utilized.</p>
       </td>
-    </tr>
-    <tr>
-        <td colspan="2" class="rateitem">Vessels that exceed the capacity of Town River Marina's and Continental Marines' 
-        hauling equipment will contract directly with an outside contractor approved by the yard. The fees paid to said 
-        contractor will be <span class="bold">in addition</span> to the storage fees stated above.</td>
-    </tr>
-    <tr>
-        <td colspan="2" class="rateitem">The basic storage rate includes haul (fall), power wash bottom, wooden blocking, stands and launch (spring).
-            The basic rate will not be adjusted if any of the above elements included in the basic rate are not utilized.</td>
     </tr>
     <tr>
         <td class="rateitem"><span class="bold">Trailers without tongue jacks will not be permitted.</span></td>
