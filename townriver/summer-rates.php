@@ -26,7 +26,7 @@
 
       <div class="bodytext">
         <div class="ratesheader">
-           <h3>Summer Rates 2017(May 15 2017-October 15, 2017)</h3>
+           <h3>Summer Rates 2018(May 15 2018-October 15, 2018)</h3>
         </div>
         <table>
           <tr>
@@ -41,20 +41,20 @@
             <td class="itemprice">$100.00 per foot</td>
           </tr>
           <tr>
-            <td class="rateitem">Mooring float for boats up to 23 feet</td>
-            <td class="itemprice">$775.00 for the season.</td>
+            <td class="rateitem">20 foot mooring float for boats up to 23 feet</td>
+            <td class="itemprice">$825.00 for the season.</td>
           </tr>
           <tr>
-            <td class="rateitem">Mooring float for boats 23 feet to 25 feet</td>
-            <td class="itemprice">$875.00 for the season.</td>
+            <td class="rateitem">40 foot mooring float for boats up to 25 feet</td>
+            <td class="itemprice">$950.00 for the season.</td>
           </tr>
           <tr>
-            <td class="rateitem">Mooring float for boats larger than 25 feet</td>
-            <td class="itemprice">$1000.00 for the season.</td>
+            <td class="rateitem">40 foot mooring float for boats larger than 25 feet</td>
+            <td class="itemprice">$1200.00 for the season.</td>
           </tr>
           <tr>
             <td class="rateitem">Launching ramp season pass/storage</td>
-            <td class="itemprice">$35.00 per foot plus $60.00 for ramp access.</td>
+            <td class="itemprice">$40.00 per foot plus $60.00 for ramp access.</td>
           </tr>
           <tr>
             <td class="rateitem">Launching ramp daily use and parking</td>
@@ -69,7 +69,7 @@
           </tr>
           <tr>
             <td class="rateitem">Boats on trailers and on blocks and stands</td>
-            <td class="itemprice">$35.00 per foot.</td>
+            <td class="itemprice">$40.00 per foot.</td>
           </tr>
         </table>
           <p>A nonrefundable deposit to accompany the current season’s application is applicable as follows:</p>
