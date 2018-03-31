@@ -91,16 +91,6 @@
             </ul>
             </p>
         </div>
-        <div class="tennant">
-            <p><span class="callout">Black Hull Charters</span> - (508) 384-3132 (508) 326-9287</p>
-
-            <p>Captain Ronnie Munafo <a href="http://www.blackhullcharters.com">www.blackhullcharters.com</a></p>
-
-            <p><span class="callout">GoFish Sportfishing Charters</span>- (508) 395-4767</p>
-
-            <p>Captain Patrick Helsingius (USCG Licensed Master Captain) specializes in light tackle fishing for striped
-                bass and bluefish in Boston Harbor. <a href="http://www.gofishboston.com">www.gofishboston.com</a></p>
-        </div>
     </div>
 
     <div id="mmta" class="ratesheader">
