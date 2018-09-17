@@ -16,7 +16,7 @@
     <?php include 'navigation.php'; ?>
 
   <div class="ratesheader">
-    <h3>RATE SCHEDULE - WINTER 2017 - 2018 (October 15, 2017 - May 15, 2018)</h3>
+    <h3>RATE SCHEDULE - WINTER 2017 - 2018 (October 15, 2018 - May 15, 2019)</h3>
   </div>
 
 <table>
