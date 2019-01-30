@@ -26,19 +26,19 @@
 
       <div class="bodytext">
         <div class="ratesheader">
-           <h3>Summer Rates 2018(May 15 2018-October 15, 2018)</h3>
+           <h3>Summer Rates 2019 (May 15 2019-October 15, 2019)</h3>
         </div>
         <table>
           <tr>
             <td class="rateitem">Finger slip including water and electricity for boats up to 31 feet</td>
-            <td class="itemprice">$103.00 per foot</td>
+            <td class="itemprice">$105.00 per foot</td>
           </tr>
           <tr>
             <td colspan="2">There is a 22 foot minimum for finger slips.</td>
           </tr>
           <tr>
             <td class="rateitem">Berths alongside, for boats up to 22 feet</td>
-            <td class="itemprice">$100.00 per foot</td>
+            <td class="itemprice">$102.00 per foot</td>
           </tr>
           <tr>
             <td class="rateitem">20 foot mooring float for boats up to 23 feet</td>
