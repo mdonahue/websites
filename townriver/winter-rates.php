@@ -55,8 +55,8 @@
   <td class="itemprice">$175.00/hr.</td>
 </tr>
 <tr>
-    <td class="reateitem">Engine remove/install (1 hr. min.)</td>
-    <td class="itemprice">$125.00/hr.</td>
+  <td class="rateitem">Engine remove/install (1 hr. min.)</td>
+  <td class="itemprice">$125.00/hr.</td>
 </tr>
 
 <tr>
