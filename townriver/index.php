@@ -34,6 +34,7 @@
             </ol>
 			<p>Winter: Storage</p>
             <ul>
+                <li><a href="winterletter2019.html">Winter Letter 2019</a></li>
 				<li><a href="docs/storage/EXHIBIT_ALICENSE.doc">Exhibit A Boat Storage License</a></li>
 				<li><a href="docs/storage/licagreestorage_secI.doc">Storage License</a></li>
 				<li><a href="docs/storage/licagreestoragesecII.doc">Storage License Section II</a></li>
