@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td colspan="2" class="rateitem">
-      <p>All stored vessels must have a certificate of insurance showing coverages of at least $300, 000 in liability and $500,000 in environmental on file with the marina prior to haul out. Town River Marina should also be named as an additional insured.</p>
+      <p>All stored vessels must have a certificate of insurance showing coverages of at least $300, 000 in liability and $500,000 in environmental on file with the marina <span class="bold">prior to</span> haul out. Town River Marina should also be named as an additional insured.</p>
       <p>Vessels that exceed the capacity of Town River Marina's and Continental Marines' hauling equipment will contract directly with an outside contractor approved by the yard. The fees paid to said contractor will be <span class="bold">in addition</span> to the storage fees stated above.</p>
       <p>The basic storage rate includes haul (fall), power wash bottom, wooden blocking, stands and launch (spring). The basic rate will not be adjusted if any of the above elements included in the basic rate are not utilized.</p>
       </td>
@@ -51,48 +51,29 @@
     </tr>
 
 <tr>
-  <td colspan="2" class="ratemainitem">Crane service</td>
-</tr>
-<tr>
-  <td class="ratesubitem">Boats 25 feet or less (1 hr. min.)</td>
+  <td class="rateitem">Crane Service (1 hr. min.)</td>
   <td class="itemprice">$175.00/hr.</td>
-</tr>
-<tr>
-  <td class="ratesubitem">Boats 26 to 30 feet (1 hr. min.)</td>
-  <td class="itemprice">$225.00/hr.</td>
-</tr>
-<tr>
-  <td class="ratesubitem">Boats greater than 30 feet</td>
-  <td class="itemprice">Call for quote</td>
 </tr>
     <tr>
         <td class="reateitem">Engine remove/install (1 hr. min.)</td>
         <td class="itemprice">$125.00/hr.</td>
     </tr>
-<tr>
-<td class="rateitem">Power washing</td> <td class="itemprice">$4.00 per ft.</td>
-</tr>
 
 <tr>
 <td class="rateitem">Labor rate</td> <td class="itemprice">$85.00hr.</td>
 </tr>
 
 <tr>
-<td colspan="2" class="ratemainitem">Hauling</td>
+  <td class="rateitem">Hauling</td>
+  <td class="itemprice">$7.00 ft.</td>
 </tr>
 <tr>
-  <td class="ratesubitem">Power boats</td>
-  <td class="itemprice">$6.00 ft.</td>
+  <td class="rateitem">Wide load permit - greater than 8.5 feet in width</td>
+  <td class="itemprice">$75.00</td>
 </tr>
-
-<tr>
-<td class="ratesubitem">Sail boats</td>
-<td class="itemprice">$6.00 ft.</td>
-</tr>
-
 <tr>
 <td class="rateitem">Mileage (round trip - $60.00 Minimum)</td>
-<td class="itemprice">$3.00/mi.</td>
+<td class="itemprice">$3.50/mi.</td>
 </tr>
 
 <tr>
