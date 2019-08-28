@@ -16,7 +16,7 @@
     <?php include 'navigation.php'; ?>
 
   <div class="ratesheader">
-    <h3>RATE SCHEDULE - WINTER 2018 - 2019 (October 15, 2018 - May 15, 2019)</h3>
+    <h3>RATE SCHEDULE - WINTER 2019 - 2020 (October 15, 2019 - May 15, 2020)</h3>
   </div>
 
 <table>
@@ -25,19 +25,19 @@
     </tr>
     <tr>
         <td class="rateitem">Power - under 27 feet</td>
-        <td class="itemprice">$50.00 per foot</td>
+        <td class="itemprice">$56.00 per foot</td>
     </tr>
     <tr>
         <td class="rateitem">Power - over 26 feet</td>
-        <td class="itemprice">$52.00 per foot</td>
+        <td class="itemprice">$60.00 per foot</td>
     </tr>
     <tr>
         <td class="rateitem">Sail - under 27 feet</td>
-        <td class="itemprice">$54.00 per foot</td>
+        <td class="itemprice">$60.00 per foot</td>
     </tr>
     <tr>
         <td class="rateitem">Sail - over 26 feet</td>
-        <td class="itemprice">$56.00 per foot</td>
+        <td class="itemprice">$62.00 per foot</td>
     </tr>
     <tr>
       <td colspan="2" class="rateitem">
