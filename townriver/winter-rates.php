@@ -47,17 +47,17 @@
       </td>
     </tr>
     <tr>
-        <td class="rateitem"><span class="bold">Trailers without tongue jacks will not be permitted.</span></td>
+        <td class="rateitem" colspan="2"><span class="bold">Trailers without tongue jacks will not be permitted.</span></td>
     </tr>
 
 <tr>
   <td class="rateitem">Crane Service (1 hr. min.)</td>
   <td class="itemprice">$175.00/hr.</td>
 </tr>
-    <tr>
-        <td class="reateitem">Engine remove/install (1 hr. min.)</td>
-        <td class="itemprice">$125.00/hr.</td>
-    </tr>
+<tr>
+    <td class="reateitem">Engine remove/install (1 hr. min.)</td>
+    <td class="itemprice">$125.00/hr.</td>
+</tr>
 
 <tr>
 <td class="rateitem">Labor rate</td> <td class="itemprice">$85.00hr.</td>
