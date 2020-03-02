@@ -23,7 +23,7 @@
     <?php include 'navigation.php'; ?>
 	<div class="bodytext">
         <div class="lede">
-            <h4 class="callout">2019 Dockage/Mooring at Town River Marina.</h4>
+            <h4 class="callout">2020 Dockage/Mooring at Town River Marina.</h4>
 
             <p>To get started: </p>
             <ol>

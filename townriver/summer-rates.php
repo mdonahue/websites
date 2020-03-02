@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <title>
-      Town River Marina - Mooring and Yacht Services in Quncy, MA: Summer Rates (May 15-October 15, 2017)
+      Town River Marina - Mooring and Yacht Services in Quncy, MA: Summer Rates (May 15-October 15, 2020)
     </title>
     <meta name="description" content="Town River Marina provides mooring services as well as yacht storage and launching facilities on the Twon River in Quincy, MA" />
     <meta name="keywords" content="mooring services, yacht brokerage, yacht storage, Quincy Massachusetts" />
@@ -26,7 +26,7 @@
 
       <div class="bodytext">
         <div class="ratesheader">
-           <h3>Summer Rates 2019 (May 15 2019-October 15, 2019)</h3>
+           <h3>Summer Rates 2020 (May 15 2020-October 15, 2020)</h3>
         </div>
         <table>
           <tr>
