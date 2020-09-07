@@ -25,20 +25,12 @@
         <td colspan="2" class="rateitem">Applicable to all stored boats:</td>
     </tr>
     <tr>
-        <td class="rateitem">Power - under 27 feet</td>
-        <td class="itemprice">$56.00 per foot</td>
+        <td class="rateitem">All Powerboats</td>
+        <td class="itemprice">$63.00 per foot</td>
     </tr>
     <tr>
-        <td class="rateitem">Power - over 26 feet</td>
-        <td class="itemprice">$60.00 per foot</td>
-    </tr>
-    <tr>
-        <td class="rateitem">Sail - under 27 feet</td>
-        <td class="itemprice">$60.00 per foot</td>
-    </tr>
-    <tr>
-        <td class="rateitem">Sail - over 26 feet</td>
-        <td class="itemprice">$62.00 per foot</td>
+        <td class="rateitem">All Sailboats</td>
+        <td class="itemprice">$65.00 per foot</td>
     </tr>
     <tr>
       <td colspan="2" class="rateitem">
@@ -50,42 +42,6 @@
     <tr>
         <td class="rateitem" colspan="2"><span class="bold">Trailers without tongue jacks will not be permitted.</span></td>
     </tr>
-
-<tr>
-  <td class="rateitem">Crane Service (1 hr. min.)</td>
-  <td class="itemprice">$175.00/hr.</td>
-</tr>
-<tr>
-  <td class="rateitem">Engine remove/install (1 hr. min.)</td>
-  <td class="itemprice">$125.00/hr.</td>
-</tr>
-
-<tr>
-<td class="rateitem">Labor rate</td> <td class="itemprice">$85.00hr.</td>
-</tr>
-
-<tr>
-  <td class="rateitem">Hauling</td>
-  <td class="itemprice">$7.00 ft.</td>
-</tr>
-<tr>
-  <td class="rateitem">Wide load permit - greater than 8.5 feet in width</td>
-  <td class="itemprice">$75.00</td>
-</tr>
-<tr>
-<td class="rateitem">Mileage (round trip - $60.00 Minimum)</td>
-<td class="itemprice">$3.50/mi.</td>
-</tr>
-
-<tr>
-<td class="rateitem">Towing (by the clock)</td>
-<td class="itemprice">$150.00 hr.</td>
-</tr>
-
-<tr>
-<td class="rateitem">Salvage and boat removal</td>
-<td class="itemprice">Call for quote</td>
-</tr>
 </table>
 
 <div class="address">
