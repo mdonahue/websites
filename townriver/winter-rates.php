@@ -17,7 +17,7 @@
 
   <div class="ratesheader">
     <h3>RATE SCHEDULE - WINTER 2020 - 2021 (October 15, 2020 - May 15, 2021)</h3>
-    <p><a href="winterletter2020.html">Winter Letter 2019</a></p>
+    <p><a href="winterletter2020.doc">Winter Letter 2020</a></p>
   </div>
 
 <table>
