@@ -16,7 +16,7 @@
     <?php include 'navigation.php'; ?>
 
   <div class="ratesheader">
-    <h3>RATE SCHEDULE - WINTER 2019 - 2020 (October 15, 2019 - May 15, 2020)</h3>
+    <h3>RATE SCHEDULE - WINTER 2020 - 2021 (October 15, 2020 - May 15, 2021)</h3>
     <p><a href="winterletter2019.html">Winter Letter 2019</a></p>
   </div>
 
