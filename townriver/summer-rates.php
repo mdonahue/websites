@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <title>
-      Town River Marina - Mooring and Yacht Services in Quncy, MA: Summer Rates (May 15-October 15, 2020)
+      Town River Marina - Mooring and Yacht Services in Quncy, MA: Summer Rates (May 15-October 15, 2021)
     </title>
     <meta name="description" content="Town River Marina provides mooring services as well as yacht storage and launching facilities on the Twon River in Quincy, MA" />
     <meta name="keywords" content="mooring services, yacht brokerage, yacht storage, Quincy Massachusetts" />
@@ -26,35 +26,35 @@
 
       <div class="bodytext">
         <div class="ratesheader">
-           <h3>Summer Rates 2020 (May 15 2020-October 15, 2020)</h3>
+           <h3>Summer Rates 2021 (May 15 2021-October 15, 2021)</h3>
         </div>
         <table>
           <tr>
             <td class="rateitem">Finger slip including water and electricity for boats up to 31 feet</td>
-            <td class="itemprice">$105.00 per foot</td>
+            <td class="itemprice">$110.00 per foot</td>
           </tr>
           <tr>
             <td colspan="2">There is a 22 foot minimum for finger slips.</td>
           </tr>
           <tr>
             <td class="rateitem">Berths alongside, for boats up to 22 feet</td>
-            <td class="itemprice">$102.00 per foot</td>
+            <td class="itemprice">$107.00 per foot</td>
           </tr>
           <tr>
             <td class="rateitem">20 foot mooring float for boats up to 23 feet</td>
-            <td class="itemprice">$825.00 for the season.</td>
+            <td class="itemprice">$900.00 for the season.</td>
           </tr>
           <tr>
-            <td class="rateitem">40 foot mooring float for boats up to 25 feet</td>
-            <td class="itemprice">$950.00 for the season.</td>
+            <td class="rateitem">40 foot aluminum mooring float for boats up to 25 feet</td>
+            <td class="itemprice">$975.00 for the season.</td>
           </tr>
           <tr>
             <td class="rateitem">40 foot mooring float for boats larger than 25 feet</td>
-            <td class="itemprice">$1200.00 for the season.</td>
+            <td class="itemprice">$1300.00 for the season.</td>
           </tr>
           <tr>
             <td class="rateitem">Launching ramp season pass/storage</td>
-            <td class="itemprice">$40.00 per foot plus $60.00 for ramp access.</td>
+            <td class="itemprice">$45.00 per foot plus $60.00 for ramp access.</td>
           </tr>
           <tr>
             <td class="rateitem">Launching ramp daily use and parking</td>
@@ -65,11 +65,11 @@
           </tr>
           <tr>
             <td class="rateitem">Empty trailers, dead storage</td>
-            <td class="itemprice">$8.00 per foot.</td>
+            <td class="itemprice">$10.00 per foot.</td>
           </tr>
           <tr>
             <td class="rateitem">Boats on trailers and on blocks and stands</td>
-            <td class="itemprice">$40.00 per foot.</td>
+            <td class="itemprice">$45.00 per foot.</td>
           </tr>
         </table>
           <p>A nonrefundable deposit to accompany the current season’s application is applicable as follows:</p>
