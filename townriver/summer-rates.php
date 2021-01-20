@@ -54,7 +54,7 @@
           </tr>
           <tr>
             <td class="rateitem">Launching ramp season pass/storage</td>
-            <td class="itemprice">$45.00 per foot plus $60.00 for ramp access.</td>
+            <td class="itemprice">$45.00 per foot plus $70.00 for ramp access.</td>
           </tr>
           <tr>
             <td class="rateitem">Launching ramp daily use and parking</td>
